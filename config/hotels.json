@@ -1,0 +1,668 @@
+[
+    {
+        "id": "1",
+        "name": "The Grand Regal",
+        "location": "Paris, France",
+        "city": "Paris",
+        "country": "France",
+        "region": "Europe",
+        "price": 450,
+        "rating": 4.9,
+        "reviewsCount": 1240,
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "AC",
+            "Bar",
+            "Gym"
+        ],
+        "category": "Hotel",
+        "description": "Experience unparalleled luxury in the heart of Paris. The Grand Regal offers world-class service, gourmet dining, and stunning views of the Eiffel Tower. Our elegant rooms blend classic French architecture with modern amenities.",
+        "coordinates": {
+            "lat": 48.8566,
+            "lng": 2.3522
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "Pets allowed with $50 fee per night",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Arc de Triomphe",
+            "Champs-Élysées"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Azure Cove Resort",
+        "location": "Maldives",
+        "city": "Malé",
+        "country": "Maldives",
+        "region": "Asia",
+        "price": 850,
+        "rating": 5.0,
+        "reviewsCount": 850,
+        "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1540541338287-41700207dee6?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Bar",
+            "Gym",
+            "Water Sports",
+            "Restaurant"
+        ],
+        "category": "Resort",
+        "description": "Our overwater villas provide direct access to the crystal clear lagoon. Indulge in private dining, water sports, and absolute serenity. Each villa features a private infinity pool and glass floor panels for marine life viewing.",
+        "coordinates": {
+            "lat": 3.2028,
+            "lng": 73.2207
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "12:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 7 days before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Designated smoking areas only"
+        },
+        "nearbyAttractions": [
+            "Coral Reefs",
+            "Diving Sites",
+            "Private Islands",
+            "Marine Reserve"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Urban Loft Suites",
+        "location": "New York, USA",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "price": 320,
+        "rating": 4.7,
+        "reviewsCount": 2100,
+        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Gym",
+            "AC",
+            "Kitchen",
+            "Parking"
+        ],
+        "category": "Apartment",
+        "description": "Modern, spacious apartments in the heart of Manhattan. Perfect for business travelers and families who want a home-away-from-home experience. Fully equipped kitchens and stunning city views.",
+        "coordinates": {
+            "lat": 40.7128,
+            "lng": -74.0060
+        },
+        "checkInTime": "16:00",
+        "checkOutTime": "10:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 24 hours before check-in",
+            "pets": "Pets allowed with $75 fee",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Times Square",
+            "Central Park",
+            "Empire State Building",
+            "Broadway"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Mountain Whisper Lodge",
+        "location": "Swiss Alps, Switzerland",
+        "city": "Zermatt",
+        "country": "Switzerland",
+        "region": "Europe",
+        "price": 550,
+        "rating": 4.8,
+        "reviewsCount": 620,
+        "image": "https://images.unsplash.com/photo-1512918730906-836746815332?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1512918730906-836746815332?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Spa",
+            "Restaurant",
+            "Fireplace",
+            "Ski Storage",
+            "Bar"
+        ],
+        "category": "Resort",
+        "description": "A cozy retreat surrounded by snow-capped peaks. Enjoy skiing, hiking, and relaxing by the fire in our traditional Alpine lodge. Direct access to ski slopes and mountain trails.",
+        "coordinates": {
+            "lat": 46.8182,
+            "lng": 8.2275
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 72 hours before check-in",
+            "pets": "Pets allowed with prior approval",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Matterhorn",
+            "Ski Slopes",
+            "Glacier Paradise",
+            "Hiking Trails"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Sunrise Sands Hotel",
+        "location": "Santorini, Greece",
+        "city": "Santorini",
+        "country": "Greece",
+        "region": "Europe",
+        "price": 400,
+        "rating": 4.9,
+        "reviewsCount": 1540,
+        "image": "https://images.unsplash.com/photo-1515404929826-76fff9fef204?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1515404929826-76fff9fef204?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1469796466635-455ede028ca2?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Bar",
+            "AC",
+            "Spa"
+        ],
+        "category": "Hotel",
+        "description": "White-washed luxury overlooking the caldera. Sunrise Sands offers the quintessential Santorini experience with breathtaking sunset views. Infinity pools and cave-style suites carved into the cliffside.",
+        "coordinates": {
+            "lat": 36.3932,
+            "lng": 25.4615
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "12:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 5 days before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Designated outdoor areas only"
+        },
+        "nearbyAttractions": [
+            "Oia Village",
+            "Red Beach",
+            "Ancient Thera",
+            "Caldera Views"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Eco Jungle Retreat",
+        "location": "Ubud, Bali",
+        "city": "Ubud",
+        "country": "Indonesia",
+        "region": "Asia",
+        "price": 250,
+        "rating": 4.6,
+        "reviewsCount": 980,
+        "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1537953773345-d142cc4cc7ab?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Yoga Studio",
+            "Restaurant",
+            "Organic Garden"
+        ],
+        "category": "Resort",
+        "description": "Disconnect and reconnect with nature. Our eco-friendly resort is tucked away in the lush jungles of Ubud, offering yoga and meditation. Sustainable bamboo villas with rice paddy views.",
+        "coordinates": {
+            "lat": -8.5069,
+            "lng": 115.2625
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Tegalalang Rice Terraces",
+            "Sacred Monkey Forest",
+            "Ubud Palace",
+            "Art Markets"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Desert Oasis Resort",
+        "location": "Dubai, UAE",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "Middle East",
+        "price": 680,
+        "rating": 4.8,
+        "reviewsCount": 1350,
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Gym",
+            "AC",
+            "Beach Access"
+        ],
+        "category": "Resort",
+        "description": "Experience Arabian luxury at its finest. Our beachfront resort combines traditional hospitality with modern opulence. Private beach, world-class dining, and stunning views of the Dubai skyline.",
+        "coordinates": {
+            "lat": 25.2048,
+            "lng": 55.2708
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "12:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 72 hours before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Designated areas only"
+        },
+        "nearbyAttractions": [
+            "Burj Khalifa",
+            "Dubai Mall",
+            "Palm Jumeirah",
+            "Dubai Marina"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Coastal Haven Hotel",
+        "location": "Barcelona, Spain",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "price": 380,
+        "rating": 4.7,
+        "reviewsCount": 1820,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1455587734955-081b22074882?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Bar",
+            "AC",
+            "Parking",
+            "Gym"
+        ],
+        "category": "Hotel",
+        "description": "Boutique hotel steps from the Mediterranean. Enjoy Catalan cuisine, rooftop pool, and easy access to Gaudí's masterpieces. Modern design meets Barcelona's vibrant culture.",
+        "coordinates": {
+            "lat": 41.3851,
+            "lng": 2.1734
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "Small pets allowed with $40 fee",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Sagrada Familia",
+            "Park Güell",
+            "Las Ramblas",
+            "Gothic Quarter"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Tokyo Sky Suites",
+        "location": "Tokyo, Japan",
+        "city": "Tokyo",
+        "country": "Japan",
+        "region": "Asia",
+        "price": 420,
+        "rating": 4.8,
+        "reviewsCount": 1650,
+        "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Bar",
+            "AC",
+            "Gym",
+            "Spa"
+        ],
+        "category": "Hotel",
+        "description": "Ultra-modern hotel in the heart of Shibuya. Floor-to-ceiling windows offer panoramic city views. Experience Japanese hospitality with cutting-edge technology and minimalist design.",
+        "coordinates": {
+            "lat": 35.6762,
+            "lng": 139.6503
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Designated smoking rooms available"
+        },
+        "nearbyAttractions": [
+            "Shibuya Crossing",
+            "Meiji Shrine",
+            "Tokyo Tower",
+            "Harajuku"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Safari Lodge Serengeti",
+        "location": "Serengeti, Tanzania",
+        "city": "Serengeti",
+        "country": "Tanzania",
+        "region": "Africa",
+        "price": 720,
+        "rating": 4.9,
+        "reviewsCount": 540,
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1534067783941-51c9c23ecefd?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Bar",
+            "Pool",
+            "Safari Tours",
+            "Spa"
+        ],
+        "category": "Resort",
+        "description": "Luxury tented camp in the heart of the Serengeti. Witness the Great Migration from your private deck. All-inclusive safari experiences with expert guides and gourmet bush dining.",
+        "coordinates": {
+            "lat": -2.3333,
+            "lng": 34.8333
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "10:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 14 days before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Outdoor areas only"
+        },
+        "nearbyAttractions": [
+            "Serengeti National Park",
+            "Ngorongoro Crater",
+            "Olduvai Gorge",
+            "Wildlife Migration Routes"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Harbor View Apartments",
+        "location": "Sydney, Australia",
+        "city": "Sydney",
+        "country": "Australia",
+        "region": "Oceania",
+        "price": 340,
+        "rating": 4.6,
+        "reviewsCount": 1420,
+        "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Kitchen",
+            "AC",
+            "Parking",
+            "Gym",
+            "Pool"
+        ],
+        "category": "Apartment",
+        "description": "Spacious waterfront apartments with Opera House views. Fully equipped for extended stays with modern amenities. Perfect location for exploring Sydney's iconic landmarks.",
+        "coordinates": {
+            "lat": -33.8688,
+            "lng": 151.2093
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "10:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "Pets allowed with approval",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Sydney Opera House",
+            "Harbour Bridge",
+            "Bondi Beach",
+            "The Rocks"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Northern Lights Lodge",
+        "location": "Reykjavik, Iceland",
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "region": "Europe",
+        "price": 480,
+        "rating": 4.8,
+        "reviewsCount": 890,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1531756716853-09a60d38d820?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Bar",
+            "Spa",
+            "Hot Tub",
+            "Fireplace"
+        ],
+        "category": "Hotel",
+        "description": "Cozy retreat with panoramic views for Northern Lights viewing. Geothermal hot tubs, Icelandic cuisine, and aurora wake-up service. Perfect base for exploring Iceland's natural wonders.",
+        "coordinates": {
+            "lat": 64.1466,
+            "lng": -21.9426
+        },
+        "checkInTime": "15:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 72 hours before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Blue Lagoon",
+            "Golden Circle",
+            "Hallgrímskirkja",
+            "Perlan Museum"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Rainforest Canopy Villas",
+        "location": "Costa Rica",
+        "city": "Manuel Antonio",
+        "country": "Costa Rica",
+        "region": "Central America",
+        "price": 390,
+        "rating": 4.7,
+        "reviewsCount": 760,
+        "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Restaurant",
+            "Spa",
+            "Yoga Studio",
+            "Wildlife Tours"
+        ],
+        "category": "Resort",
+        "description": "Treehouse-style villas nestled in pristine rainforest. Wake up to howler monkeys and exotic birds. Eco-luxury with infinity pools overlooking the Pacific Ocean and jungle canopy.",
+        "coordinates": {
+            "lat": 9.3963,
+            "lng": -84.1452
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 5 days before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Manuel Antonio National Park",
+            "Beaches",
+            "Zip-lining",
+            "Wildlife Reserves"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Historic Quarter Hotel",
+        "location": "Prague, Czech Republic",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "region": "Europe",
+        "price": 280,
+        "rating": 4.6,
+        "reviewsCount": 1580,
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1541971875076-8f970d573be6?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Restaurant",
+            "Bar",
+            "AC",
+            "Parking"
+        ],
+        "category": "Hotel",
+        "description": "Charming boutique hotel in a restored 18th-century building. Steps from Old Town Square and Charles Bridge. Combines historical elegance with modern comfort.",
+        "coordinates": {
+            "lat": 50.0755,
+            "lng": 14.4378
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "11:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "Small pets allowed with $30 fee",
+            "smoking": "Non-smoking property"
+        },
+        "nearbyAttractions": [
+            "Charles Bridge",
+            "Prague Castle",
+            "Old Town Square",
+            "Astronomical Clock"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Beachfront Paradise Resort",
+        "location": "Phuket, Thailand",
+        "city": "Phuket",
+        "country": "Thailand",
+        "region": "Asia",
+        "price": 310,
+        "rating": 4.7,
+        "reviewsCount": 1920,
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&q=80&w=800",
+        "images": [
+            "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=1200",
+            "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&q=80&w=1200"
+        ],
+        "amenities": [
+            "WiFi",
+            "Pool",
+            "Spa",
+            "Restaurant",
+            "Bar",
+            "Beach Access",
+            "Water Sports"
+        ],
+        "category": "Resort",
+        "description": "Tropical paradise on Patong Beach. Multiple pools, Thai spa, and beachfront dining. Perfect blend of relaxation and adventure with island hopping tours and water activities.",
+        "coordinates": {
+            "lat": 7.8804,
+            "lng": 98.3923
+        },
+        "checkInTime": "14:00",
+        "checkOutTime": "12:00",
+        "policies": {
+            "cancellation": "Free cancellation up to 48 hours before check-in",
+            "pets": "No pets allowed",
+            "smoking": "Designated areas only"
+        },
+        "nearbyAttractions": [
+            "Patong Beach",
+            "Phi Phi Islands",
+            "Big Buddha",
+            "Old Phuket Town"
+        ]
+    }
+]

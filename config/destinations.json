@@ -1,0 +1,457 @@
+[
+    {
+        "id": "dest-paris",
+        "name": "Paris",
+        "country": "France",
+        "region": "Europe",
+        "slug": "paris-france",
+        "description": "The City of Light beckons with its iconic landmarks, world-class museums, and romantic ambiance. From the Eiffel Tower to charming cafés, Paris offers an unforgettable blend of history, culture, and gastronomy.",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "April to June, September to October",
+        "averageTemp": "15°C",
+        "currency": "EUR",
+        "language": "French",
+        "hotelIds": [
+            "1"
+        ],
+        "attractions": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame Cathedral",
+            "Arc de Triomphe",
+            "Champs-Élysées",
+            "Sacré-Cœur",
+            "Versailles Palace"
+        ],
+        "activities": [
+            "Museum Tours",
+            "Seine River Cruise",
+            "Wine Tasting",
+            "Shopping",
+            "Fine Dining"
+        ],
+        "tags": [
+            "Romantic",
+            "Cultural",
+            "Historic",
+            "Urban"
+        ]
+    },
+    {
+        "id": "dest-maldives",
+        "name": "Maldives",
+        "country": "Maldives",
+        "region": "Asia",
+        "slug": "maldives",
+        "description": "A tropical paradise of crystal-clear waters, pristine beaches, and luxurious overwater villas. Perfect for honeymooners and those seeking ultimate relaxation in an idyllic island setting.",
+        "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "November to April",
+        "averageTemp": "28°C",
+        "currency": "MVR",
+        "language": "Dhivehi",
+        "hotelIds": [
+            "2"
+        ],
+        "attractions": [
+            "Coral Reefs",
+            "Bioluminescent Beaches",
+            "Private Islands",
+            "Marine Reserve",
+            "Underwater Restaurant"
+        ],
+        "activities": [
+            "Snorkeling",
+            "Diving",
+            "Water Sports",
+            "Spa Treatments",
+            "Island Hopping"
+        ],
+        "tags": [
+            "Beach",
+            "Luxury",
+            "Romantic",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "dest-newyork",
+        "name": "New York",
+        "country": "USA",
+        "region": "North America",
+        "slug": "new-york-usa",
+        "description": "The city that never sleeps offers endless entertainment, world-famous landmarks, diverse neighborhoods, and unparalleled dining. Experience the energy of Times Square, the serenity of Central Park, and everything in between.",
+        "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "April to June, September to November",
+        "averageTemp": "12°C",
+        "currency": "USD",
+        "language": "English",
+        "hotelIds": [
+            "3"
+        ],
+        "attractions": [
+            "Statue of Liberty",
+            "Central Park",
+            "Empire State Building",
+            "Times Square",
+            "Brooklyn Bridge",
+            "Metropolitan Museum",
+            "Broadway"
+        ],
+        "activities": [
+            "Theater Shows",
+            "Shopping",
+            "Museum Tours",
+            "Food Tours",
+            "Sightseeing"
+        ],
+        "tags": [
+            "Urban",
+            "Cultural",
+            "Entertainment",
+            "Shopping"
+        ]
+    },
+    {
+        "id": "dest-swiss-alps",
+        "name": "Swiss Alps",
+        "country": "Switzerland",
+        "region": "Europe",
+        "slug": "swiss-alps-switzerland",
+        "description": "Majestic snow-capped peaks, charming alpine villages, and world-class ski resorts. The Swiss Alps offer year-round beauty with skiing in winter and hiking in summer.",
+        "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "December to March (skiing), June to September (hiking)",
+        "averageTemp": "8°C",
+        "currency": "CHF",
+        "language": "German, French, Italian",
+        "hotelIds": [
+            "4"
+        ],
+        "attractions": [
+            "Matterhorn",
+            "Jungfraujoch",
+            "Glacier Paradise",
+            "Alpine Villages",
+            "Mountain Railways"
+        ],
+        "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Hiking",
+            "Mountain Biking",
+            "Scenic Trains"
+        ],
+        "tags": [
+            "Mountain",
+            "Adventure",
+            "Nature",
+            "Skiing"
+        ]
+    },
+    {
+        "id": "dest-santorini",
+        "name": "Santorini",
+        "country": "Greece",
+        "region": "Europe",
+        "slug": "santorini-greece",
+        "description": "Iconic white-washed buildings perched on dramatic cliffs overlooking the azure Aegean Sea. Famous for spectacular sunsets, ancient ruins, and romantic atmosphere.",
+        "image": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "April to November",
+        "averageTemp": "22°C",
+        "currency": "EUR",
+        "language": "Greek",
+        "hotelIds": [
+            "5"
+        ],
+        "attractions": [
+            "Oia Village",
+            "Red Beach",
+            "Ancient Thera",
+            "Caldera Views",
+            "Akrotiri Archaeological Site",
+            "Wine Vineyards"
+        ],
+        "activities": [
+            "Sunset Watching",
+            "Wine Tasting",
+            "Boat Tours",
+            "Beach Hopping",
+            "Photography"
+        ],
+        "tags": [
+            "Beach",
+            "Romantic",
+            "Historic",
+            "Scenic"
+        ]
+    },
+    {
+        "id": "dest-bali",
+        "name": "Bali",
+        "country": "Indonesia",
+        "region": "Asia",
+        "slug": "bali-indonesia",
+        "description": "Island of the Gods offers lush rice terraces, ancient temples, vibrant culture, and world-class surfing. A perfect blend of spirituality, nature, and tropical paradise.",
+        "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "April to October",
+        "averageTemp": "27°C",
+        "currency": "IDR",
+        "language": "Indonesian, Balinese",
+        "hotelIds": [
+            "6"
+        ],
+        "attractions": [
+            "Tegalalang Rice Terraces",
+            "Sacred Monkey Forest",
+            "Tanah Lot Temple",
+            "Ubud Palace",
+            "Mount Batur",
+            "Beaches"
+        ],
+        "activities": [
+            "Yoga",
+            "Surfing",
+            "Temple Tours",
+            "Rice Terrace Walks",
+            "Spa Treatments"
+        ],
+        "tags": [
+            "Beach",
+            "Cultural",
+            "Wellness",
+            "Nature"
+        ]
+    },
+    {
+        "id": "dest-dubai",
+        "name": "Dubai",
+        "country": "UAE",
+        "region": "Middle East",
+        "slug": "dubai-uae",
+        "description": "A futuristic metropolis rising from the desert, featuring the world's tallest building, luxury shopping, and innovative architecture. Experience Arabian hospitality meets modern opulence.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "November to March",
+        "averageTemp": "26°C",
+        "currency": "AED",
+        "language": "Arabic, English",
+        "hotelIds": [
+            "7"
+        ],
+        "attractions": [
+            "Burj Khalifa",
+            "Dubai Mall",
+            "Palm Jumeirah",
+            "Dubai Marina",
+            "Gold Souk",
+            "Desert Safari"
+        ],
+        "activities": [
+            "Shopping",
+            "Desert Safari",
+            "Skydiving",
+            "Beach Clubs",
+            "Fine Dining"
+        ],
+        "tags": [
+            "Luxury",
+            "Urban",
+            "Beach",
+            "Shopping"
+        ]
+    },
+    {
+        "id": "dest-barcelona",
+        "name": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "slug": "barcelona-spain",
+        "description": "Gaudí's architectural masterpieces, Mediterranean beaches, vibrant nightlife, and delicious tapas. A perfect blend of culture, art, and coastal living.",
+        "image": "https://images.unsplash.com/photo-1562883676-8c7feb83f09b?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1562883676-8c7feb83f09b?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "May to June, September to October",
+        "averageTemp": "18°C",
+        "currency": "EUR",
+        "language": "Spanish, Catalan",
+        "hotelIds": [
+            "8"
+        ],
+        "attractions": [
+            "Sagrada Familia",
+            "Park Güell",
+            "Las Ramblas",
+            "Gothic Quarter",
+            "Casa Batlló",
+            "Barceloneta Beach"
+        ],
+        "activities": [
+            "Architecture Tours",
+            "Beach Time",
+            "Tapas Tasting",
+            "Nightlife",
+            "Shopping"
+        ],
+        "tags": [
+            "Beach",
+            "Cultural",
+            "Urban",
+            "Historic"
+        ]
+    },
+    {
+        "id": "dest-tokyo",
+        "name": "Tokyo",
+        "country": "Japan",
+        "region": "Asia",
+        "slug": "tokyo-japan",
+        "description": "Where ancient traditions meet cutting-edge technology. Experience serene temples, bustling markets, innovative cuisine, and the famous Shibuya crossing.",
+        "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "March to May, September to November",
+        "averageTemp": "16°C",
+        "currency": "JPY",
+        "language": "Japanese",
+        "hotelIds": [
+            "9"
+        ],
+        "attractions": [
+            "Shibuya Crossing",
+            "Senso-ji Temple",
+            "Tokyo Tower",
+            "Meiji Shrine",
+            "Tsukiji Market",
+            "Harajuku"
+        ],
+        "activities": [
+            "Temple Visits",
+            "Sushi Making",
+            "Shopping",
+            "Karaoke",
+            "Cherry Blossom Viewing"
+        ],
+        "tags": [
+            "Urban",
+            "Cultural",
+            "Technology",
+            "Food"
+        ]
+    },
+    {
+        "id": "dest-serengeti",
+        "name": "Serengeti",
+        "country": "Tanzania",
+        "region": "Africa",
+        "slug": "serengeti-tanzania",
+        "description": "Witness the Great Migration and experience Africa's most spectacular wildlife. Endless plains teeming with lions, elephants, and wildebeest in their natural habitat.",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "June to October (dry season), January to February (calving season)",
+        "averageTemp": "24°C",
+        "currency": "TZS",
+        "language": "Swahili, English",
+        "hotelIds": [
+            "10"
+        ],
+        "attractions": [
+            "Serengeti National Park",
+            "Ngorongoro Crater",
+            "Olduvai Gorge",
+            "Migration Routes",
+            "Kopjes"
+        ],
+        "activities": [
+            "Safari Drives",
+            "Hot Air Balloon",
+            "Wildlife Photography",
+            "Bush Walks",
+            "Cultural Tours"
+        ],
+        "tags": [
+            "Wildlife",
+            "Adventure",
+            "Nature",
+            "Safari"
+        ]
+    },
+    {
+        "id": "dest-sydney",
+        "name": "Sydney",
+        "country": "Australia",
+        "region": "Oceania",
+        "slug": "sydney-australia",
+        "description": "Harbor city with iconic Opera House, stunning beaches, and laid-back lifestyle. Perfect blend of urban sophistication and coastal beauty.",
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "September to November, March to May",
+        "averageTemp": "18°C",
+        "currency": "AUD",
+        "language": "English",
+        "hotelIds": [
+            "11"
+        ],
+        "attractions": [
+            "Sydney Opera House",
+            "Harbour Bridge",
+            "Bondi Beach",
+            "The Rocks",
+            "Taronga Zoo",
+            "Royal Botanic Garden"
+        ],
+        "activities": [
+            "Beach Activities",
+            "Harbor Cruise",
+            "Coastal Walks",
+            "Surfing",
+            "Dining"
+        ],
+        "tags": [
+            "Beach",
+            "Urban",
+            "Coastal",
+            "Outdoor"
+        ]
+    },
+    {
+        "id": "dest-iceland",
+        "name": "Reykjavik",
+        "country": "Iceland",
+        "region": "Europe",
+        "slug": "reykjavik-iceland",
+        "description": "Land of fire and ice with Northern Lights, geothermal hot springs, and dramatic volcanic landscapes. Experience nature's raw power and beauty.",
+        "image": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&q=80&w=1200",
+        "heroImage": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&q=80&w=1600",
+        "bestTimeToVisit": "June to August (midnight sun), September to March (Northern Lights)",
+        "averageTemp": "5°C",
+        "currency": "ISK",
+        "language": "Icelandic",
+        "hotelIds": [
+            "12"
+        ],
+        "attractions": [
+            "Blue Lagoon",
+            "Golden Circle",
+            "Northern Lights",
+            "Gullfoss Waterfall",
+            "Geysir",
+            "Hallgrímskirkja"
+        ],
+        "activities": [
+            "Northern Lights Viewing",
+            "Hot Springs",
+            "Glacier Hiking",
+            "Whale Watching",
+            "Volcano Tours"
+        ],
+        "tags": [
+            "Nature",
+            "Adventure",
+            "Unique",
+            "Scenic"
+        ]
+    }
+]

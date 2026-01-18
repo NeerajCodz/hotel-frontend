@@ -1,0 +1,121 @@
+[
+    {
+        "id": "wifi",
+        "name": "WiFi",
+        "category": "connectivity",
+        "icon": "Wifi",
+        "description": "High-speed wireless internet access"
+    },
+    {
+        "id": "pool",
+        "name": "Pool",
+        "category": "recreation",
+        "icon": "Waves",
+        "description": "Swimming pool facility"
+    },
+    {
+        "id": "spa",
+        "name": "Spa",
+        "category": "wellness",
+        "icon": "Sparkles",
+        "description": "Full-service spa and wellness center"
+    },
+    {
+        "id": "restaurant",
+        "name": "Restaurant",
+        "category": "dining",
+        "icon": "Utensils",
+        "description": "On-site dining restaurant"
+    },
+    {
+        "id": "bar",
+        "name": "Bar",
+        "category": "dining",
+        "icon": "Coffee",
+        "description": "Bar and lounge area"
+    },
+    {
+        "id": "gym",
+        "name": "Gym",
+        "category": "fitness",
+        "icon": "Dumbbell",
+        "description": "Fitness center with equipment"
+    },
+    {
+        "id": "ac",
+        "name": "AC",
+        "category": "comfort",
+        "icon": "Wind",
+        "description": "Air conditioning"
+    },
+    {
+        "id": "parking",
+        "name": "Parking",
+        "category": "convenience",
+        "icon": "Car",
+        "description": "Parking facility"
+    },
+    {
+        "id": "kitchen",
+        "name": "Kitchen",
+        "category": "convenience",
+        "icon": "ChefHat",
+        "description": "Full kitchen or kitchenette"
+    },
+    {
+        "id": "beach-access",
+        "name": "Beach Access",
+        "category": "location",
+        "icon": "Palmtree",
+        "description": "Direct beach access"
+    },
+    {
+        "id": "water-sports",
+        "name": "Water Sports",
+        "category": "recreation",
+        "icon": "Waves",
+        "description": "Water sports equipment and activities"
+    },
+    {
+        "id": "yoga-studio",
+        "name": "Yoga Studio",
+        "category": "wellness",
+        "icon": "Heart",
+        "description": "Dedicated yoga and meditation space"
+    },
+    {
+        "id": "fireplace",
+        "name": "Fireplace",
+        "category": "comfort",
+        "icon": "Flame",
+        "description": "In-room fireplace"
+    },
+    {
+        "id": "ski-storage",
+        "name": "Ski Storage",
+        "category": "convenience",
+        "icon": "Mountain",
+        "description": "Secure ski equipment storage"
+    },
+    {
+        "id": "organic-garden",
+        "name": "Organic Garden",
+        "category": "dining",
+        "icon": "Leaf",
+        "description": "On-site organic garden"
+    },
+    {
+        "id": "safari-tours",
+        "name": "Safari Tours",
+        "category": "activities",
+        "icon": "Binoculars",
+        "description": "Guided safari expeditions"
+    },
+    {
+        "id": "hot-tub",
+        "name": "Hot Tub",
+        "category": "wellness",
+        "icon": "Bath",
+        "description": "Hot tub or jacuzzi"
+    }
+]

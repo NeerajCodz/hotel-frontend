@@ -1,0 +1,366 @@
+[
+    {
+        "id": "deal-1",
+        "title": "Early Bird Summer Special",
+        "description": "Book your summer getaway now and save big! Perfect for beach destinations and tropical paradises.",
+        "type": "seasonal",
+        "discountPercent": 25,
+        "hotelIds": [
+            "2",
+            "6",
+            "15"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-03-31",
+        "bookingPeriod": "Book by March 31, 2024",
+        "travelPeriod": "Travel between June 1 - September 30, 2024",
+        "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 3 nights stay required",
+            "Non-refundable booking",
+            "Subject to availability",
+            "Cannot be combined with other offers"
+        ],
+        "featured": true,
+        "savings": "Save up to $500"
+    },
+    {
+        "id": "deal-2",
+        "title": "Last Minute City Escape",
+        "description": "Spontaneous trip? Get amazing deals on urban hotels with bookings made within 48 hours of check-in.",
+        "type": "last-minute",
+        "discountPercent": 30,
+        "hotelIds": [
+            "1",
+            "3",
+            "8",
+            "9"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book within 48 hours of check-in",
+        "travelPeriod": "Year-round",
+        "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Must book within 48 hours of check-in",
+            "Limited availability",
+            "Non-refundable",
+            "Minimum 2 nights stay"
+        ],
+        "featured": true,
+        "savings": "Save up to $300"
+    },
+    {
+        "id": "deal-3",
+        "title": "Honeymoon Paradise Package",
+        "description": "Celebrate your love with our exclusive honeymoon package including spa treatments, champagne, and romantic dinners.",
+        "type": "package",
+        "discountPercent": 20,
+        "hotelIds": [
+            "2",
+            "5",
+            "13"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book anytime",
+        "travelPeriod": "Year-round",
+        "image": "https://images.unsplash.com/photo-1519167758481-83f29da8c2b0?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Valid for newlyweds (within 6 months of wedding)",
+            "Minimum 5 nights stay",
+            "Includes couples spa treatment",
+            "Complimentary champagne and flowers",
+            "One romantic dinner included"
+        ],
+        "featured": true,
+        "savings": "Save up to $800 + extras worth $400",
+        "includes": [
+            "Couples Spa Treatment",
+            "Champagne & Flowers",
+            "Romantic Dinner for Two",
+            "Late Checkout",
+            "Room Upgrade (subject to availability)"
+        ]
+    },
+    {
+        "id": "deal-4",
+        "title": "Winter Wonderland Ski Package",
+        "description": "Hit the slopes with our all-inclusive ski package featuring lift passes, equipment rental, and cozy alpine accommodations.",
+        "type": "package",
+        "discountPercent": 15,
+        "hotelIds": [
+            "4",
+            "12"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-02-28",
+        "bookingPeriod": "Book by February 28, 2024",
+        "travelPeriod": "December 2024 - March 2025",
+        "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 4 nights stay",
+            "Includes 3-day lift pass",
+            "Equipment rental for 3 days",
+            "Ski lessons available at extra cost"
+        ],
+        "featured": false,
+        "savings": "Save up to $600",
+        "includes": [
+            "3-Day Ski Lift Pass",
+            "Equipment Rental",
+            "Daily Breakfast",
+            "Access to Spa & Hot Tub"
+        ]
+    },
+    {
+        "id": "deal-5",
+        "title": "Extended Stay Discount",
+        "description": "Planning a longer trip? Enjoy progressive discounts on stays of 7 nights or more at select properties.",
+        "type": "seasonal",
+        "discountPercent": 35,
+        "hotelIds": [
+            "3",
+            "6",
+            "11",
+            "14"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book anytime",
+        "travelPeriod": "Year-round",
+        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "7-13 nights: 20% off",
+            "14-20 nights: 30% off",
+            "21+ nights: 35% off",
+            "Free cancellation up to 7 days before check-in"
+        ],
+        "featured": false,
+        "savings": "Save up to $1,200"
+    },
+    {
+        "id": "deal-6",
+        "title": "Safari Adventure Package",
+        "description": "Experience the wild with our comprehensive safari package including game drives, expert guides, and luxury tented accommodation.",
+        "type": "package",
+        "discountPercent": 18,
+        "hotelIds": [
+            "10"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book at least 60 days in advance",
+        "travelPeriod": "Year-round (best June-October)",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 5 nights stay",
+            "All meals included",
+            "Two game drives daily",
+            "Airport transfers included",
+            "Book at least 60 days in advance"
+        ],
+        "featured": true,
+        "savings": "Save up to $1,000",
+        "includes": [
+            "All Meals & Drinks",
+            "Daily Game Drives",
+            "Expert Safari Guide",
+            "Airport Transfers",
+            "Laundry Service"
+        ]
+    },
+    {
+        "id": "deal-7",
+        "title": "Wellness Retreat Special",
+        "description": "Rejuvenate your mind and body with our wellness package featuring yoga, meditation, spa treatments, and healthy cuisine.",
+        "type": "package",
+        "discountPercent": 22,
+        "hotelIds": [
+            "6",
+            "13"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book anytime",
+        "travelPeriod": "Year-round",
+        "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 4 nights stay",
+            "Daily yoga and meditation sessions",
+            "One spa treatment per day",
+            "Healthy meal plan included"
+        ],
+        "featured": false,
+        "savings": "Save up to $700",
+        "includes": [
+            "Daily Yoga Classes",
+            "Meditation Sessions",
+            "Spa Treatment Daily",
+            "Healthy Meal Plan",
+            "Wellness Consultation"
+        ]
+    },
+    {
+        "id": "deal-8",
+        "title": "Family Fun Package",
+        "description": "Create unforgettable memories with our family package featuring kids' activities, family rooms, and special amenities.",
+        "type": "package",
+        "discountPercent": 25,
+        "hotelIds": [
+            "7",
+            "8",
+            "11",
+            "15"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book anytime",
+        "travelPeriod": "Year-round",
+        "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Valid for families with children under 12",
+            "Minimum 3 nights stay",
+            "Kids under 12 stay free",
+            "One child meal free per paying adult"
+        ],
+        "featured": false,
+        "savings": "Save up to $600",
+        "includes": [
+            "Kids Stay Free",
+            "Kids Club Access",
+            "Family Room Upgrade",
+            "Welcome Gifts for Kids",
+            "One Free Kids Meal Daily"
+        ]
+    },
+    {
+        "id": "deal-9",
+        "title": "Romantic Getaway - Valentine's Special",
+        "description": "Celebrate love with our Valentine's package featuring champagne, roses, couples massage, and candlelit dinner.",
+        "type": "seasonal",
+        "discountPercent": 20,
+        "hotelIds": [
+            "1",
+            "5",
+            "8",
+            "12"
+        ],
+        "validFrom": "2024-01-15",
+        "validUntil": "2024-02-20",
+        "bookingPeriod": "Book by February 10, 2024",
+        "travelPeriod": "February 10-18, 2024",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 2 nights stay",
+            "Valid for February 10-18 only",
+            "Advance booking required",
+            "Limited availability"
+        ],
+        "featured": true,
+        "savings": "Save up to $400",
+        "includes": [
+            "Champagne & Roses",
+            "Couples Massage",
+            "Candlelit Dinner",
+            "Late Checkout",
+            "Chocolate-Covered Strawberries"
+        ]
+    },
+    {
+        "id": "deal-10",
+        "title": "Business Traveler Discount",
+        "description": "Special rates for business travelers with flexible cancellation, late checkout, and workspace amenities.",
+        "type": "seasonal",
+        "discountPercent": 15,
+        "hotelIds": [
+            "1",
+            "3",
+            "7",
+            "9",
+            "14"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-12-31",
+        "bookingPeriod": "Book anytime",
+        "travelPeriod": "Monday-Thursday arrivals",
+        "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Valid for Monday-Thursday check-ins",
+            "Corporate email required for verification",
+            "Free cancellation up to 24 hours",
+            "Minimum 1 night stay"
+        ],
+        "featured": false,
+        "savings": "Save up to $200",
+        "includes": [
+            "Free WiFi",
+            "Late Checkout (2 PM)",
+            "Workspace Setup",
+            "Complimentary Breakfast",
+            "Express Laundry Service"
+        ]
+    },
+    {
+        "id": "deal-11",
+        "title": "Northern Lights Experience",
+        "description": "Chase the Aurora Borealis with our special package including guided tours, aurora wake-up service, and photography tips.",
+        "type": "package",
+        "discountPercent": 20,
+        "hotelIds": [
+            "12"
+        ],
+        "validFrom": "2024-01-01",
+        "validUntil": "2024-03-31",
+        "bookingPeriod": "Book by March 31, 2024",
+        "travelPeriod": "September 2024 - March 2025",
+        "image": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 4 nights stay",
+            "Aurora wake-up service included",
+            "Northern Lights tour included",
+            "Photography workshop available"
+        ],
+        "featured": true,
+        "savings": "Save up to $500",
+        "includes": [
+            "Aurora Wake-Up Service",
+            "Northern Lights Tour",
+            "Hot Tub Access",
+            "Photography Tips",
+            "Thermal Clothing Rental"
+        ]
+    },
+    {
+        "id": "deal-12",
+        "title": "Beach Bliss - Summer Savings",
+        "description": "Soak up the sun with incredible discounts on beachfront properties. Perfect for summer vacations!",
+        "type": "seasonal",
+        "discountPercent": 28,
+        "hotelIds": [
+            "2",
+            "8",
+            "11",
+            "15"
+        ],
+        "validFrom": "2024-04-01",
+        "validUntil": "2024-05-31",
+        "bookingPeriod": "Book by May 31, 2024",
+        "travelPeriod": "June 1 - August 31, 2024",
+        "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=800",
+        "terms": [
+            "Minimum 5 nights stay",
+            "Non-refundable booking",
+            "Beach access included",
+            "Water sports equipment available"
+        ],
+        "featured": true,
+        "savings": "Save up to $900",
+        "includes": [
+            "Beach Access",
+            "Sun Loungers & Umbrellas",
+            "Welcome Cocktail",
+            "Water Sports Discount"
+        ]
+    }
+]
